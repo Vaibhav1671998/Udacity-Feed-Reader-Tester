@@ -48,10 +48,13 @@ Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/pr
 21. Write a README file detailing all steps required to successfully run the application. If you have added additional tests (for Udacious Test Coverage),  provide documentation for what these future features are and what the tests are checking for.
 
 
-#How i completed the project :-
+# How i completed the project :-
 1.I saw the project details carefully .
 2. Then i implemented each suite carefully as described . 
 3. Then i ran the index.html file in my browser to see the specs passed . 
 4. you can get the project and run index.html in chrome or firefox to see app in action .
 5. I made some tests according to the rubric.
 6. These tests are loaded to ensure no errors.
+
+# Running the App :-
+ To see the live versionof this app click this [link][https://vaibhav1671998.github.io/Udacity-Feed-Reader-Tester/] .
