@@ -57,4 +57,4 @@ Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/pr
 6. These tests are loaded to ensure no errors.
 
 # Running the App :-
- To see the live version of this app click this [link](https://vaibhav1671998.github.io/Udacity-Feed-Reader-Tester/) .
+ To see the live version of this app click this [link](https://born2bdev.github.io/Udacity-Feed-Reader-Tester/) .
